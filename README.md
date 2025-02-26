@@ -1,4 +1,11 @@
-# Task 4 Details
+title: Mango leaf disease detector
+colorFrom: green
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.42.2
+app_file: app.py
+pinned: false
+short_description: Detects the disease on a mango leaf
 
 Task 4 is about the deployment of the models that were built and chosen during [task 3 model training]
 
